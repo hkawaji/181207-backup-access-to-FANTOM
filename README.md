@@ -2,7 +2,7 @@
 
 FANTOM servers (incl. all #FANTOM5 services) are now facing troubles, and become unavailable tentatively. We are very sorry. We are taking steps to recover it as soon as possible.
 
-Here we provide temporary ways to access FANTOM data. Please contact fantom-help@riken.jp for questions.
+Here I provide temporary ways to access FANTOM data. Please contact fantom-help@riken.jp for questions.
 
 * data files
   - FANTOM5 data is archived in LSDB archive - https://dbarchive.biosciencedbc.jp/jp/fantom5/download.html Please note that the archived version is phase2.2, whereas the latest version is phase2.5. 
