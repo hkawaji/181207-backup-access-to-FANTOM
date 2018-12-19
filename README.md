@@ -14,6 +14,6 @@ Here I provide temporary ways to access FANTOM data. Please contact fantom-help@
 
 
 Updates:
-* 2018-12-19 - supplemental material of FANTOM CAT (Hon et al.) 
+* 2018-12-19 - supplemental material of FANTOM CAT (Hon et al.) is added
 * 2018-12-19 - a part of "reprocessed" files is added
 * 2018-12-17 - this page started
