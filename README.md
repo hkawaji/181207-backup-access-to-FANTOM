@@ -13,6 +13,5 @@ Here I provide temporary ways to access FANTOM data. Please contact fantom-help@
 
 
 Updates:
-
-* 181217 - this page started
-* 181219 - a part of "reprocessed" files is added (upon request)
+* 2018-12-19 - a part of "reprocessed" files is added (upon request)
+* 2018-12-17 - this page started
