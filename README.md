@@ -10,3 +10,9 @@ Here I provide temporary ways to access FANTOM data. Please contact fantom-help@
   - a part of the "reprocessed" files - http://d3g.riken.jp/experimental/fantom5_datafiles/reprocessed/hg38_v5/extra/ (mirror of the  http://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v5/extra )
 * trackHub
   - http://genome-asia.ucsc.edu/cgi-bin/hgTracks?db=hg19&hubUrl=http://d3g.riken.jp/experimental/fantom5_datahub/hub.txt
+
+
+Updates:
+
+* 181217 - this page started
+* 181219 - a part of "reprocessed" files is added
