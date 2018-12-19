@@ -8,7 +8,7 @@ Here I provide temporary ways to access FANTOM data. Please contact fantom-help@
   - FANTOM5 data is archived in LSDB archive - https://dbarchive.biosciencedbc.jp/jp/fantom5/download.html Please note that the archived version is phase2.2, whereas the latest version is phase2.5. 
 * supplemental materials, acompanied with published articles. Please e-mail to fantom-help@riken.jp ; we will handle the data set upon request basis
   - FANTOM CAT (Hon et al. 2016) http://d3g.riken.jp/experimental/fantom5_suppl/Hon_et_al_2016/
-    - (Original URL)[http://fantom.gsc.riken.jp/5/suppl/Hon_et_al_2016]
+    - [Original URL](http://fantom.gsc.riken.jp/5/suppl/Hon_et_al_2016)
   - a part of the "reprocessed" files - http://d3g.riken.jp/experimental/fantom5_datafiles/reprocessed/hg38_v5/extra/
     - Original URL is  http://fantom.gsc.riken.jp/5/datafiles/reprocessed/hg38_v5/extra
 * trackHub
