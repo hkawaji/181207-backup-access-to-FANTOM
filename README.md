@@ -1,6 +1,6 @@
 # Backup access to FANTOM ( fantom.gsc.riken.jp )
 
-FANTOM servers (incl. all #FANTOM5 services) are now facing troubles, and become unavailable tentatively. We are very sorry. We are taking steps to recover it as soon as possible.
+FANTOM servers (incl. all #FANTOM5 services) are now facing troubles, and become unavailable tentatively. We are very sorry. We are taking steps to recover it as soon as possible. Please see https://twitter.com/FANTOM_project for the latest news.
 
 Here I provide temporary ways to access FANTOM data. Please contact fantom-help@riken.jp for questions.
 
@@ -14,6 +14,7 @@ Here I provide temporary ways to access FANTOM data. Please contact fantom-help@
 
 
 Updates:
+* 2018-12-22 - twitter account https://twitter.com/FANTOM_project is mentioned
 * 2018-12-19 - supplemental material of FANTOM CAT (Hon et al.) is added
 * 2018-12-19 - a part of "reprocessed" files is added
 * 2018-12-17 - this page started
