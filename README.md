@@ -18,7 +18,7 @@ Here I provide temporary ways to access FANTOM data. Please contact fantom-help@
 
 
 Updates:
-* 2018-12-25 - supplemental material of FANTOM CAT (Ramilowski et al.) is added
+* 2018-12-25 - supplemental material of Cell Connectome (Ramilowski et al.) is added
 * 2018-12-22 - twitter account https://twitter.com/FANTOM_project is mentioned
 * 2018-12-19 - supplemental material of FANTOM CAT (Hon et al.) is added
 * 2018-12-19 - a part of "reprocessed" files is added
