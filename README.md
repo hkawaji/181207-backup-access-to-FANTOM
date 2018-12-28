@@ -1,6 +1,8 @@
 # FANTOM IS BACK!
 * http://fantom.gsc.riken.jp/
 
+all the data should be available, while some of cover contents are missing. please let fantom-help@riken.jp know if any data is missing.
+
 # Backup access to FANTOM ( fantom.gsc.riken.jp )
 
 FANTOM servers (incl. all #FANTOM5 services) are now facing troubles, and become unavailable tentatively. We are very sorry. We are taking steps to recover it as soon as possible. Please see https://twitter.com/FANTOM_project for the latest news.
