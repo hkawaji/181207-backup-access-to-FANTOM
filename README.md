@@ -1,7 +1,7 @@
 # FANTOM IS BACK!
 * http://fantom.gsc.riken.jp/
 
-all the data should be available, while some of cover contents are missing. please let fantom-help@riken.jp know if any data is missing.
+all the data should be available now, while some of cover contents are missing. please let fantom-help@riken.jp know if any data is missing.
 
 # Backup access to FANTOM ( fantom.gsc.riken.jp )
 
